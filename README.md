@@ -32,10 +32,10 @@ Golem Core 是一个**协议服务端程序，启动后通过 HTTP 接口提供�
 
 | 系统 | 架构 | 文件名示例 |
 | --- | --- | --- |
-| Windows | amd64 / arm64 | `golem-core-v1.0.0-windows-amd64.exe` |
+| Windows | amd64 | `golem-core-v1.0.0-windows-amd64.exe` |
 | Linux | amd64 / arm64 | `golem-core-v1.0.0-linux-amd64` |
 | macOS | amd64 / arm64 | `golem-core-v1.0.0-darwin-arm64` |
-| Android | amd64 / arm64 | `golem-core-v1.0.0-android-arm64` |
+| Android | arm64 | `golem-core-v1.0.0-android-arm64` |
 
 下载后可用同页面的 `checksums.txt` 校验文件完整性：
 
